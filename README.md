@@ -12,12 +12,7 @@
 
 &#x20; </a>
 
-&#x20; <a href="https://github.com/DEVENDRA-IT-TECH-code">
-
-&#x20;   <img src="https://img.shields.io/badge/GitHub-DEVENDRA-IT-TECH-code?style=for-the-badge\&logo=github\&logoColor=white" alt="GitHub" />
-
-&#x20; </a>
-
+&#x20; 
 </p>
 
 
