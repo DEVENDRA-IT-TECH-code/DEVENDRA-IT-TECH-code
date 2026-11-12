@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Devendra Balaji Yadav 👋</h1>
+<h1 align="center">Hi there, I'm Devendra Balaji 👋</h1>
 
 <h3 align="center">Final-Year B.Sc. IT Student | Backend Engineer \& Data Enthusiast | Mumbai, India</h3>
 
@@ -6,7 +6,7 @@
 
 <p align="center">
 
-&#x20; <a href="mailto:stormbringerboy638@gmail.com">
+&#x20; <a href="mailto:balajidevendra93@gmail.com">
 
 &#x20;   <img src="https://img.shields.io/badge/Email-stormbringerboy638%40gmail.com-D14836?style=for-the-badge\&logo=gmail\&logoColor=white" alt="Email" />
 
