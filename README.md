@@ -8,13 +8,13 @@
 
 &#x20; <a href="mailto:balajidevendra93@gmail.com">
 
-&#x20;   <img src="https://img.shields.io/badge/Email-stormbringerboy638%40gmail.com-D14836?style=for-the-badge\&logo=gmail\&logoColor=white" alt="Email" />
+&#x20;   <img src="https://img.shields.io/badge/Email-balajidevendra93@gmail.com-D14836?style=for-the-badge\&logo=gmail\&logoColor=white" alt="Email" />
 
 &#x20; </a>
 
-&#x20; <a href="https://github.com/stormbringerboy638-lang">
+&#x20; <a href="https://github.com/DEVENDRA-IT-TECH-code">
 
-&#x20;   <img src="https://img.shields.io/badge/GitHub-Raju\_\_yeager-181717?style=for-the-badge\&logo=github\&logoColor=white" alt="GitHub" />
+&#x20;   <img src="https://img.shields.io/badge/GitHub-DEVENDRA-IT-TECH-code?style=for-the-badge\&logo=github\&logoColor=white" alt="GitHub" />
 
 &#x20; </a>
 
